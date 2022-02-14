@@ -8,7 +8,7 @@ This is a python toolbox for use in ArcGIS Pro (2.6.3, 2.7.1, 2.8.3) to extract,
 - *This toolbox is currently functioning with Go.Data version 40.2
 
 ## Set up 
-- Download or clone the repo to your machine. To download, go to the green 'Code' button ![GoData](/Code.png)in the top right of this page and choose download zip.
+- Download or clone the repo to your machine. To download, go to the green 'Code' button ![GoData](/images/Code.png) in the top right of this page and choose download zip.
 - Open ArcGIS Pro, and in the "Catalog" pane, right-click the "Toolboxes" icon and choose the "Add Toolbox" option
 - Browse to where you downloaded the files and select the Go.Data toolbox
 
